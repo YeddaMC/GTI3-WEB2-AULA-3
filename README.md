@@ -8,3 +8,5 @@ https://github.com/YeddaMC/GTI3-WEB2-AULA-3/tree/main/exercicio-1
 do funcionário, e (iii) o departamento que ele trabalha. Concatene (utilize interpolação) as variáveis para
 formar um e-mail com o formato <primeiro_nome.sobrenome@ifpr.edu.br> e mostre o resultado em
 uma tag p> no navegador.
+
+https://github.com/YeddaMC/GTI3-WEB2-AULA-3/blob/main/exercicio%202/interpolarVariaveis.php
